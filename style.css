@@ -96,13 +96,11 @@ body {
 }
 
 
-
-
 .content {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 95%;
+  width: 85%;
   max-width: 1300px;
   gap: 40px;
   position: relative;
@@ -110,7 +108,7 @@ body {
 }
 
 .text {
-  max-width: 80%;
+  max-width: 50%;
   text-align: left;
 }
 
